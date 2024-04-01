@@ -1,0 +1,13 @@
+{
+    "name": "conmujal/conmujal.dyndns.org",
+    "description": "API WOO SYSCOM",
+    "authors": [
+        {
+            "name": "Adrian Cortes",
+            "email": "acortes@conmujal.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
